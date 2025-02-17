@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/10/07 19:33:50.000.605,=C:\Users\SKG Tecnología\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 10:50:06.000.714,=C:\Users\SKG Tecnología\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 10:54:38.000.917,C:\Users\SKG Tecnología\Documents\Embarcadero\Studio\Projects\Main.dproj=C:\Users\SKG Tecnología\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2024/10/08 10:55:31.000.842,C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Main.dproj=C:\Users\SKG Tecnología\Documents\Embarcadero\Studio\Projects\Main.dproj</Transaction>
+    <Transaction>2024/10/08 11:28:30.000.417,=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 11:33:19.000.122,C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\src\utils\PCAUtils.pas=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 11:49:19.000.294,=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 11:52:09.000.845,=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 11:52:34.000.847,C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\src\service\FormatService.pas=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 11:54:16.000.077,=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 11:54:40.000.464,C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\src\utils\LinalgUtils.pas=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 12:11:25.000.751,=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 12:11:50.000.957,C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Tests\Tests.pas=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 16:47:12.000.345,=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 16:48:11.000.955,C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\src\utils\CircleFitUtils.pas=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 16:50:18.000.782,=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 16:51:13.000.652,C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\src\utils\FitUtils.pas=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 18:27:03.000.276,=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/08 18:27:40.000.402,C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\src\utils\CircleFitUtils.pas=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/12 15:38:55.000.079,=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/12 15:39:59.000.604,C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\src\utils\OptimizationUtils.pas</Transaction>
+    <Transaction>2024/10/17 12:11:07.000.557,=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/17 12:12:41.000.045,C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\src\utils\PseudoInverseUtils.pas=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/17 16:00:10.000.629,=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/17 16:00:38.000.479,C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\src\utils\CircleResultProcessingUtils.pas=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/22 12:28:12.000.410,=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/22 12:30:57.000.172,C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\src\utils\PseudoFitUtils.pas=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/22 15:15:27.000.189,=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/22 15:15:49.000.634,C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\src\utils\DimensionsIteratorUtils.pas=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/23 12:28:02.000.791,=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas</Transaction>
+    <Transaction>2024/10/23 12:28:51.000.764,C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\Unit1.pas=C:\Users\SKG Tecnología\Documents\AdvancedTubularTech-CylinderCenterline-2.0\Dev2.0\src\PseudoInverseScheme.pas</Transaction>
+  </Transactions>
+</BorlandProject>
